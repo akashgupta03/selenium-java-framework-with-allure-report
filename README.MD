@@ -1,4 +1,4 @@
-# Lean Test Automation Architecture using Java and Selenium WebDriver
+# Test Automation framework Architecture using Java and Selenium WebDriver,Allure
 [![Actions Status](https://github.com/akashgupta03/selenium-java-framework-with-allure-report.git
 /workflows/Build%20and%20Test/badge.svg)](https://github.com/akashgupta03/selenium-java-framework-with-allure-report.git
 /actions)
